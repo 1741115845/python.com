@@ -5,7 +5,6 @@ import json
 import pygal
 import pygal_maps_world.maps
 import dyy_章节16系统countries国别码 as country
-from pygal.style import  RotateStyle
 
 filename='population_data.json'
 with open(filename) as f:
