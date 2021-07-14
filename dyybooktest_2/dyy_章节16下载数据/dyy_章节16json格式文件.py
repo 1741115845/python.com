@@ -7,7 +7,7 @@ import pygal_maps_world.maps
 import dyy_章节16系统countries国别码 as country
 
 filename='population_data.json'
-print("测试git撤销修改测试123")
+print("测试git撤销修改测试12345")
 with open(filename) as f:
 	# 将json数据转换成python能处理的数据格式
 	pop_date=json.load(f)
